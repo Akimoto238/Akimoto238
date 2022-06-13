@@ -1,6 +1,6 @@
 ## Olá amigos, sou o Samuel Akimoto!
 <div align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/Akimoto238">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akimoto238&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimoto238&layout=&langs_count=7&theme=tokyonight"/>
 </div>
