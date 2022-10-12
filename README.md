@@ -9,7 +9,7 @@
   <img align="center" alt="Aki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aki-Java" height="30" width="40" src="<i class="devicon-java-plain colored"></i>">
+  <img align="center" alt="Aki-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
    <img align="right" alt="cross-jesus" height="150" style="border-radius:50px;" src="cross-jesus-cross.png">
 </div>
  
