@@ -1,4 +1,5 @@
 ## Olá amigos, sou o Samuel Akimoto!
+Atualmente desenvolvendo um jogo em RPG Maker VX Ace!
 <div align="center">
   <a href="https://github.com/Akimoto238">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akimoto238&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
